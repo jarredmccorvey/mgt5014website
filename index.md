@@ -1,4 +1,4 @@
 ---
-title: Welcome to my MGT5014 blog
-Date: 21AUG2022
+title: MGT-5014
+Date: 2022-08-21
 
